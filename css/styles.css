@@ -1,0 +1,27 @@
+body {
+    padding-top: 50px;
+}
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+.pastedIngListInput {
+    border-top: 2px solid #ddd;
+    padding-top: 2px;
+}
+.editTD {
+    background: #000;
+}
+.subpage-nav {
+    padding-bottom: 5px;
+
+}
+.subpage-nav-bottom {
+    padding-top: 5px;
+}
+.off-white-bkg {
+    background-color: #FFFBF0;
+}
+.light-red-bkg {
+    background-color: #E96044;
+}
